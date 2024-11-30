@@ -14,11 +14,11 @@ A quiz app built with Flutter, designed to test your knowledge of Flutter develo
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-quiz-app.git
+   git clone https://github.com/marwanashraf56/QuizApp.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flutter-quiz-app
+   cd quiz-app
    ```
 3. Install dependencies:
    ```bash
